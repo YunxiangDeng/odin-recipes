@@ -1,0 +1,38 @@
+html {
+  font-family: 'Cormorant', serif;
+  font-size: 62.5%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 1.6rem;
+  height: 100vh;
+  background-image: url('/index-background.jpg');
+  background-size: cover;
+}
+
+.recipes {
+  margin: 5rem;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style: none;
+}
+
+li a {
+  font-size: 2rem;
+  color: white;
+  text-decoration: none;
+  line-height: 1.4;
+}
